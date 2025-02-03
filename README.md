@@ -40,7 +40,8 @@ The entire movement is controlled using **timers (millis function)** instead of 
 ## 🏗 **Circuit Diagram**
 Below is the **wiring setup** for the project:
 
-![Circuit Diagram](4 DC Motor Control with L293D Motor Driver.png)
+![Image Description](4 DC Motor Control with L293D Motor Driver.png)
+
 
 
 ### **📝 Wiring Details**
