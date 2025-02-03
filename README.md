@@ -51,7 +51,7 @@ Each **L293D driver** controls **two motors**:
 ---
 
 ## 🖥 **Arduino Code**
-The project is programmed using Arduino, and the full code is provided in [`4-DC-Motor-Control-with-L293D-Motor-Driver.ino`](4-DC-Motor-Control-with-L293D-Motor-Driver.ino).
+The project is programmed using Arduino, and the full code is provided in 4_dc_motor_control_with_l293d_motor_driver1.ino`](4_dc_motor_control_with_l293d_motor_driver1.ino).
 
 
 ### **📜 Code Explanation**
