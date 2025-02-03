@@ -1,6 +1,6 @@
 # 4-DC-Motor-Control-with-L293D-Motor-Driver
 
-[📹 Watch the video](https://github.com/yourusername/repository/raw/main/Test%20video.mp4)
+[📹 Watch the video](https://github.com/RehamAlhmaidi/repository/raw/main/Test%20video.mp4)
 
 ## 📌 Overview
 This project demonstrates how to control **four DC motors** using **two L293D motor drivers** and an **Arduino Uno**. The motors execute a predefined sequence of movements based on time intervals
